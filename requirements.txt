@@ -1,0 +1,9 @@
+requests~=2.25.1
+TgCrypto
+Pyrogram~=0.18.0
+cachetools
+pytz
+python-telegram-bot==12.8
+python-dotenv
+psycopg2-binary
+schedule
